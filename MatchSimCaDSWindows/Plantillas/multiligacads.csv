@@ -1,0 +1,119 @@
+﻿#$Equipos$de Liga
+5|CA Trigal
+5|UD Glaciar
+5|Cerezo FC
+4|SCD Pluma Blanca
+4|Zidra Shuckle
+4|UD Volcánica
+4|CP Planicie
+3|AC Azumarill
+3|Arcoíris AD
+3|ADV Kabuki
+#$Jornada$1
+4|SCD Pluma Blanca-4|Zidra Shuckle
+5|Cerezo FC-4|UD Volcánica
+3|AC Azumarill-5|CA Trigal
+5|UD Glaciar-3|Arcoíris AD
+4|CP Planicie-3|ADV Kabuki
+#$Jornada$2
+4|UD Volcánica-4|SCD Pluma Blanca
+5|CA Trigal-4|Zidra Shuckle
+3|Arcoíris AD-5|Cerezo FC
+3|ADV Kabuki-3|AC Azumarill
+4|CP Planicie-5|UD Glaciar
+#$Jornada$3
+4|SCD Pluma Blanca-5|CA Trigal
+4|UD Volcánica-3|Arcoíris AD
+4|Zidra Shuckle-3|ADV Kabuki
+5|Cerezo FC-4|CP Planicie
+3|AC Azumarill-5|UD Glaciar
+#$Jornada$4
+3|Arcoíris AD-4|SCD Pluma Blanca
+3|ADV Kabuki-5|CA Trigal
+4|CP Planicie-4|UD Volcánica
+5|UD Glaciar-4|Zidra Shuckle
+3|AC Azumarill-5|Cerezo FC
+#$Jornada$5
+4|SCD Pluma Blanca-3|ADV Kabuki
+3|Arcoíris AD-4|CP Planicie
+5|CA Trigal-5|UD Glaciar
+4|UD Volcánica-3|AC Azumarill
+4|Zidra Shuckle-5|Cerezo FC
+#$Jornada$6
+4|CP Planicie-4|SCD Pluma Blanca
+5|UD Glaciar-3|ADV Kabuki
+3|AC Azumarill-3|Arcoíris AD
+5|Cerezo FC-5|CA Trigal
+4|Zidra Shuckle-4|UD Volcánica
+#$Jornada$7
+4|SCD Pluma Blanca-5|UD Glaciar
+4|CP Planicie-3|AC Azumarill
+3|ADV Kabuki-5|Cerezo FC
+3|Arcoíris AD-4|Zidra Shuckle
+5|CA Trigal-4|UD Volcánica
+#$Jornada$8
+3|AC Azumarill-4|SCD Pluma Blanca
+5|Cerezo FC-5|UD Glaciar
+4|Zidra Shuckle-4|CP Planicie
+4|UD Volcánica-3|ADV Kabuki
+5|CA Trigal-3|Arcoíris AD
+#$Jornada$9
+4|SCD Pluma Blanca-5|Cerezo FC
+3|AC Azumarill-4|Zidra Shuckle
+5|UD Glaciar-4|UD Volcánica
+4|CP Planicie-5|CA Trigal
+3|ADV Kabuki-3|Arcoíris AD
+#$Jornada$10
+4|Zidra Shuckle-4|SCD Pluma Blanca
+4|UD Volcánica-5|Cerezo FC
+5|CA Trigal-3|AC Azumarill
+3|Arcoíris AD-5|UD Glaciar
+3|ADV Kabuki-4|CP Planicie
+#$Jornada$11
+4|SCD Pluma Blanca-4|UD Volcánica
+4|Zidra Shuckle-5|CA Trigal
+5|Cerezo FC-3|Arcoíris AD
+3|AC Azumarill-3|ADV Kabuki
+5|UD Glaciar-4|CP Planicie
+#$Jornada$12
+5|CA Trigal-4|SCD Pluma Blanca
+3|Arcoíris AD-4|UD Volcánica
+3|ADV Kabuki-4|Zidra Shuckle
+4|CP Planicie-5|Cerezo FC
+5|UD Glaciar-3|AC Azumarill
+#$Jornada$13
+4|SCD Pluma Blanca-3|Arcoíris AD
+5|CA Trigal-3|ADV Kabuki
+4|UD Volcánica-4|CP Planicie
+4|Zidra Shuckle-5|UD Glaciar
+5|Cerezo FC-3|AC Azumarill
+#$Jornada$14
+3|ADV Kabuki-4|SCD Pluma Blanca
+4|CP Planicie-3|Arcoíris AD
+5|UD Glaciar-5|CA Trigal
+3|AC Azumarill-4|UD Volcánica
+5|Cerezo FC-4|Zidra Shuckle
+#$Jornada$15
+4|SCD Pluma Blanca-4|CP Planicie
+3|ADV Kabuki-5|UD Glaciar
+3|Arcoíris AD-3|AC Azumarill
+5|CA Trigal-5|Cerezo FC
+4|UD Volcánica-4|Zidra Shuckle
+#$Jornada$16
+5|UD Glaciar-4|SCD Pluma Blanca
+3|AC Azumarill-4|CP Planicie
+5|Cerezo FC-3|ADV Kabuki
+4|Zidra Shuckle-3|Arcoíris AD
+4|UD Volcánica-5|CA Trigal
+#$Jornada$17
+4|SCD Pluma Blanca-3|AC Azumarill
+5|UD Glaciar-5|Cerezo FC
+4|CP Planicie-4|Zidra Shuckle
+3|ADV Kabuki-4|UD Volcánica
+3|Arcoíris AD-5|CA Trigal
+#$Jornada$18
+5|Cerezo FC-4|SCD Pluma Blanca
+4|Zidra Shuckle-3|AC Azumarill
+4|UD Volcánica-5|UD Glaciar
+5|CA Trigal-4|CP Planicie
+3|Arcoíris AD-3|ADV Kabuki
